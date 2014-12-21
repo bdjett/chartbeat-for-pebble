@@ -1,0 +1,34 @@
+{
+    "appKeys": {
+        "desktop": 3,
+        "getData": 4,
+        "max": 5,
+        "mobile": 2,
+        "new": 1,
+        "people": 0,
+        "peopleString": 6
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bdjett@me.com",
+    "longName": "Chartbeat",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Chartbeat",
+    "uuid": "251fe38f-6374-480b-8ca3-56541b519b2b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
